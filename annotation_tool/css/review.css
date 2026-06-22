@@ -1,0 +1,60 @@
+
+        label input[type="file"] {
+            position: absolute;
+            top: -1000px;
+        }
+
+        .videowrapper {
+            margin: 0 auto;
+            width: calc(70vw);
+            max-width: 900px;
+        }
+
+        video {
+            width: 100%;
+        }
+
+        .second_bar {
+            background-color: #ccc; 
+            width: 2px; 
+            height: 270px; 
+            top:0; 
+            left:50%; 
+            position: absolute;
+        }
+
+        .second_bar.center {
+            background-color: gray; 
+        }
+
+        .bar_content {
+            /* visibility:hidden;  */
+            height:30px;
+            position: absolute;
+            left:100%;
+            border-style: solid;
+        }
+
+        .bar_content.B {
+            background-color: green;
+        }
+
+        .bar_content.T {
+            background-color: red;
+        }
+
+        .bar_content.A {
+            background-color: rgb(187, 89, 240);
+        }
+        
+        .bar_content.B.implicit {
+            background-color: #2F2;
+        }
+
+        .bar_content.T.implicit {
+            background-color: #F99;
+        }
+
+        .bar_content.A.implicit {
+            background-color: #99F;
+        }

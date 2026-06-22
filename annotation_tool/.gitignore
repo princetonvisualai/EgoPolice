@@ -1,0 +1,15 @@
+# Local configuration containing secrets (DB credentials, paths).
+# NEVER commit this. Commit config.example.php instead.
+config.php
+
+# Editor / OS noise
+*.swp
+*.swo
+*~
+.DS_Store
+.idea/
+.vscode/
+
+# Logs
+*.log
+error_log

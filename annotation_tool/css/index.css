@@ -1,0 +1,53 @@
+.singlerow {
+    margin: 0;
+    height: 42.5px;
+}
+
+.videostatus {
+    margin: auto;
+}
+
+.number {
+    margin: auto;
+    margin-left: 0;
+    margin-right: 20px;
+    width: 10px;
+}
+
+.colorbar {
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 20px;
+    height: 42.5px;
+}
+
+.singlerow .buttondiv {
+    height: 42.5px;
+    padding-left: 0px;
+    display: flex;
+}
+
+.buttondiv .btn {
+    height: 42.5px;
+    margin: auto;
+    flex-grow: 1;
+}
+
+.container .singlerow .leftdiv {
+    display: flex;
+    /* margin-left: 0; */
+}
+
+.titlediv {
+    height: 42.5px;
+    /* margin: auto; */
+}
+
+.titlediv p {
+    height: 42.5px;
+    margin: auto;
+    vertical-align: middle;
+    line-height: 42.5px;
+    word-wrap: break-word;
+    word-break: break-all;
+}
