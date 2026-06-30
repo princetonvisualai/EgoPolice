@@ -120,7 +120,7 @@ If you find our work useful, please cite our paper.
 @inproceedings{egopolice,
       title={EgoPolice: A Benchmark for Egocentric Video Understanding in High-Stakes Police Body-Worn Camera Footage},
       author={Gonzalez Saez-Diez, Max and Chung, Jihoon and Wolsky, Adam D. and Lanzalotto, Greg and Knox, Dean and Mummolo, Jonathan and Stewart, Brandon M. and Russakovsky, Olga},
-      booktitle = {ECCV},
+      booktitle = {European Conference on Computer Vision (ECCV)},
       year={2026},
 }
 ```
